@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.table th {
+    background-color: #007bff;
+    color: white;
+}
+
+footer {
+    margin-top: auto; /* This will push the footer to the bottom */
+}
